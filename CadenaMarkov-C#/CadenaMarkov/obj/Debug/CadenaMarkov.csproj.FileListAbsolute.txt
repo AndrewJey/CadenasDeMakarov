@@ -1,0 +1,8 @@
+C:\Users\Carrillo\Desktop\CadenaMarkov\CadenaMarkov\obj\Debug\CadenaMarkov.Form1.resources
+C:\Users\Carrillo\Desktop\CadenaMarkov\CadenaMarkov\obj\Debug\CadenaMarkov.Properties.Resources.resources
+C:\Users\Carrillo\Desktop\CadenaMarkov\CadenaMarkov\obj\Debug\CadenaMarkov.csproj.GenerateResource.Cache
+C:\Users\Carrillo\Desktop\CadenaMarkov\CadenaMarkov\bin\Debug\CadenaMarkov.exe.config
+C:\Users\Carrillo\Desktop\CadenaMarkov\CadenaMarkov\bin\Debug\CadenaMarkov.exe
+C:\Users\Carrillo\Desktop\CadenaMarkov\CadenaMarkov\bin\Debug\CadenaMarkov.pdb
+C:\Users\Carrillo\Desktop\CadenaMarkov\CadenaMarkov\obj\Debug\CadenaMarkov.exe
+C:\Users\Carrillo\Desktop\CadenaMarkov\CadenaMarkov\obj\Debug\CadenaMarkov.pdb
